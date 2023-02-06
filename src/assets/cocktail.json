@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sex on the beach",
+        "price": 10,
+        "img": "https://img.cuisineaz.com/660x660/2016/07/05/i78095-sex-on-the-beach-sans-alcool.jpg"
+    },
+    {
+        "name": "Marguarita",
+        "price": 13,
+        "img": "https://tequilasanjose.com/wp-content/uploads/2021/04/margarita_v2.png"
+    },
+     {
+        "name": "Martini",
+        "price": 8,
+        "img": "https://resize.elle.fr/original/var/plain_site/storage/images/elle-a-table/recettes-de-cuisine/martini-dry-2068016/21696942-3-fre-FR/Cocktail-Martini-dry.jpg"
+    }
+]
